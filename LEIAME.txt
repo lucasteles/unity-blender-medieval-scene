@@ -1,0 +1,7 @@
+Versao da unity Utilizada: 
+2019.2.13f1
+
+Na pasta Bin se encontra os binarios para PC e Android
+
+A pasta Medieval é o peojeto Unity
+A pasta Blender contem os modelos originais
